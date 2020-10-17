@@ -1,6 +1,8 @@
 # TMConverter
 Converts .TM to .OBJ, also builds TM files for TMReality games.
 
+Only **model** markers are supported, world is not supported.
+
 # Usage
 Run tmconverter without params to get usage.
 
