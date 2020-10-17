@@ -12,3 +12,5 @@ Exports wisiory.tm data to folder "dir_wisiory".
 `tmconverter -i -o new_wisiory.tm dir_wisiory`
 
 Builds new_wisiory.tm from folder "dir_wisiory"
+
+Building still in beta!
